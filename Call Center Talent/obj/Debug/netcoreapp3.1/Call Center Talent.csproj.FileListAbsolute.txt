@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\bin\Debug\netcoreapp3.1\Call Center Talent.exe
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\bin\Debug\netcoreapp3.1\Call Center Talent.deps.json
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\bin\Debug\netcoreapp3.1\Call Center Talent.runtimeconfig.json
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\bin\Debug\netcoreapp3.1\Call Center Talent.runtimeconfig.dev.json
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\bin\Debug\netcoreapp3.1\Call Center Talent.dll
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\bin\Debug\netcoreapp3.1\Call Center Talent.pdb
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent_MarkupCompile.cache
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent_MarkupCompile.lref
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent.g.resources
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent.AssemblyInfo.cs
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent.dll
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent.pdb
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent.genruntimeconfig.cache
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\obj\Debug\netcoreapp3.1\Call Center Talent.csproj.CopyComplete
+C:\Users\User\source\repos\Call Center Talent\Call Center Talent\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll

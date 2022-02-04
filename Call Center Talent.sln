@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Call Center Talent", "Call Center Talent\Call Center Talent.csproj", "{AD41D106-A2A9-461B-A990-1503E0FEFB23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD41D106-A2A9-461B-A990-1503E0FEFB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD41D106-A2A9-461B-A990-1503E0FEFB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD41D106-A2A9-461B-A990-1503E0FEFB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD41D106-A2A9-461B-A990-1503E0FEFB23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B568A7-063E-414F-9B0F-11DB502E6E07}
+	EndGlobalSection
+EndGlobal

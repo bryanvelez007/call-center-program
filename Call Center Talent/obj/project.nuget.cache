@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FTii0Xp6ZEd857Fr3VWu2Ufh6zar8/LnIWDMPquFEZbjMD0RFke/2nEhMVrR1taIP6Ktc9Y2UnAptD6wXPrXvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Call Center Talent\\Call Center Talent\\Call Center Talent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.webdriver.chromedriver\\97.0.4692.7100\\selenium.webdriver.chromedriver.97.0.4692.7100.nupkg.sha512"
+  ],
+  "logs": []
+}
